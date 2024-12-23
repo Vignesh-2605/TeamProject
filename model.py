@@ -1,0 +1,1 @@
+print("SE MODEL EXAM")
